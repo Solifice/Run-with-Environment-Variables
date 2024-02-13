@@ -12,7 +12,7 @@ However, some apps provide a portable version or zip distribution, yet they are 
 **Run with Environment Variables** is a batch script designed to address these issues, but it can only resolve them if they can be fixed by modifying environment variables.
 
 ## Limitations
-- Only Windows supported.
+- Since it's a batch file, it will only work on Windows systems.
 
 ## Download
 The script can be downloaded by either cloning it or downloading it from the releases section.
