@@ -1,6 +1,8 @@
 @echo off
 
 @REM Batch Script
+@REM Name: Run with Environment Variables.bat
+@REM Version: 1.0
 @REM Created Date: 20-05-2023
 @REM Last Modified Date: 13-02-2024
 @REM Description: Start any program after setting custom required environment variables
